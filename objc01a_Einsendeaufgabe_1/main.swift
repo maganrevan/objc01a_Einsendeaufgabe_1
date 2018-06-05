@@ -1,12 +1,8 @@
-//
-//  main.swift
-//  objc01a_Einsendeaufgabe_1
-//
-//  Created by Magnus Kruschwitz on 05.06.18.
-//  Copyright © 2018 Magnus Kruschwitz. All rights reserved.
-//
+/* ####################################
+ Einsendeaufgabe 1.1
+ ######################################*/
 
 import Foundation
 
-print("Hello, World!")
-
+print(Dieses Programm ist gleich fehlerfrei")
+print(Wenn Sie gut aufpassen
